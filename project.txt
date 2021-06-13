@@ -1,0 +1,15 @@
+POST /login/submit.php HTTP/1.1
+Host: 13.233.99.147
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Content-Length: 125
+Origin: http://13.233.99.147
+Connection: close
+Referer: http://13.233.99.147/login/customer.php
+Cookie: key=99138E77-D5E8-3492-A665-8A73F67473DA; PHPSESSID=sb15vat8dr45dcbvjllgpsc340; X-XSRF-TOKEN=dd870e50cf6f482e26e61ab7b6b793db00460f5961c78a6b7668cdb6bcf1a2f9
+
+type=customer&username=Donal234&password=123%40&X-XSRF-TOKEN=dd870e50cf6f482e26e61ab7b6b793db00460f5961c78a6b7668cdb6bcf1a2f9

@@ -1,0 +1,15 @@
+POST /SQL-Injection/Post-Based-SQL-Injection-Variant-3/details.php HTTP/1.1
+Host: 13.235.17.155
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 14
+Origin: http://13.235.17.155
+Connection: close
+Referer: http://13.235.17.155/SQL-Injection/Post-Based-SQL-Injection-Variant-3/search.php
+Cookie: key=99138E77-D5E8-3492-A665-8A73F67473DA; PHPSESSID=u8sk4jlc9ef0ijbt423e7234d7
+Upgrade-Insecure-Requests: 1
+
+sign=Capricorn
